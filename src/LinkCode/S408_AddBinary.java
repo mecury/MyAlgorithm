@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Created by 18394 on 2017/1/2.
  * 给定两个二进制字符串，返回他们的和（用二进制表示）
  */
-public class AddBinary408 {
+public class S408_AddBinary {
     /**
      * @param a a number
      * @param b a number
