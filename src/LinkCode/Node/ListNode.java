@@ -1,4 +1,4 @@
-package LinkCode;
+package LinkCode.Node;
 
 /**
  * Created by 18394 on 2017/1/2.
@@ -7,7 +7,7 @@ public class ListNode {
     int val;
     ListNode next;
 
-    ListNode(int x) {
+    public ListNode(int x) {
         val = x;
     }
 

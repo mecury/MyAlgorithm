@@ -1,4 +1,7 @@
 package LinkCode;
+
+import LinkCode.Node.ListNode;
+
 /**
  * Created by 18394 on 2017/1/2.
  * 你有两个用链表代表的整数，其中每个节点包含一个数字。

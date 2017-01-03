@@ -1,6 +1,6 @@
 package LinkCode;
 
-import java.util.Scanner;
+import LinkCode.Node.ListNode;
 
 /**
  * Created by 18394 on 2017/1/2.
