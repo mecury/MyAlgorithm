@@ -1,4 +1,4 @@
-package LinkCode;
+package LinkCode.P101_200;
 
 import LinkCode.Node.ListNode;
 
