@@ -1,4 +1,4 @@
-package LinkCode;
+package LinkCode.P401_500;
 
 import java.util.Scanner;
 
