@@ -32,6 +32,6 @@ public class S79_longestCommonSubString {
     }
 
     public static void main(String[] args) {
-        System.out.println(longestCommonSubstring("abc", "a"));
+        System.out.println(longestCommonSubstring("abc", "abc"));
     }
 }
