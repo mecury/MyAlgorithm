@@ -1,9 +1,6 @@
 package LinkCode.P101_200;
 
 import LinkCode.Node.ListNode;
-import LinkCode.Node.TreeNode;
-
-import java.util.List;
 
 /**
  * Created by 18394 on 2017/1/16.
