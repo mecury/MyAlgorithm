@@ -46,6 +46,6 @@ public class S172_RemoveElement {
 
     public static void main(String[] args){
         int [] A = {0, 4, 4,0,4,4,4,0,2};
-        System.out.print(removeElement(A, 4));
+        System.out.print(removeElement2(A, 2));
     }
 }
